@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Orsonster.png"><SubTexture name="Orsonster Idle0000" x="628" y="0" width="88" height="317" frameX="-92" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0001" x="256" y="675" width="93" height="314" frameX="-99" frameY="-31" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0002" x="532" y="675" width="93" height="312" frameX="-101" frameY="-33" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0003" x="349" y="675" width="93" height="314" frameX="-99" frameY="-31" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0004" x="0" y="358" width="93" height="317" frameX="-96" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0005" x="93" y="358" width="90" height="317" frameX="-96" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0006" x="183" y="358" width="88" height="317" frameX="-95" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0007" x="271" y="358" width="89" height="317" frameX="-93" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0008" x="360" y="358" width="89" height="317" frameX="-92" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Idle0009" x="449" y="358" width="88" height="317" frameX="-92" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Left0000" x="537" y="358" width="86" height="317" frameX="-89" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Left0001" x="623" y="358" width="85" height="317" frameX="-84" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Left0002" x="716" y="0" width="86" height="317" frameX="-82" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Left0003" x="716" y="317" width="86" height="317" frameX="-82" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Left0004" x="802" y="0" width="86" height="317" frameX="-81" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Down0000" x="716" y="675" width="95" height="311" frameX="-93" frameY="-34" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Down0001" x="904" y="675" width="93" height="310" frameX="-93" frameY="-35" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Down0002" x="811" y="675" width="93" height="311" frameX="-93" frameY="-34" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Down0003" x="625" y="675" width="91" height="312" frameX="-93" frameY="-33" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Down0004" x="442" y="675" width="90" height="313" frameX="-93" frameY="-32" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Up0000" x="456" y="0" width="86" height="319" frameX="-92" frameY="-25" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Up0001" x="542" y="0" width="86" height="318" frameX="-92" frameY="-26" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Up0002" x="802" y="317" width="86" height="317" frameX="-92" frameY="-27" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Up0003" x="888" y="317" width="86" height="316" frameX="-92" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Up0004" x="888" y="0" width="86" height="317" frameX="-92" frameY="-27" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Right0000" x="974" y="0" width="86" height="316" frameX="-101" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Right0001" x="974" y="316" width="85" height="316" frameX="-103" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Right0002" x="0" y="675" width="85" height="316" frameX="-103" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Right0003" x="85" y="675" width="85" height="316" frameX="-103" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Right0004" x="170" y="675" width="86" height="316" frameX="-101" frameY="-28" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Miss0000" x="0" y="0" width="131" height="358" frameX="-63" frameY="-3" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Miss0001" x="131" y="0" width="118" height="348" frameX="-72" frameY="-7" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Miss0002" x="249" y="0" width="107" height="335" frameX="-79" frameY="-16" frameWidth="269" frameHeight="364" />
+<SubTexture name="Orsonster Miss0003" x="356" y="0" width="100" height="331" frameX="-83" frameY="-20" frameWidth="269" frameHeight="364" />
+</TextureAtlas>

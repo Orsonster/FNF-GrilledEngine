@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Classical_Orsonster.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Attack0000" x="2133" y="1925" width="411" height="634" frameX="-205" frameY="-162" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Attack0001" x="1718" y="1925" width="415" height="634" frameX="-205" frameY="-162" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Attack0002" x="0" y="0" width="519" height="630" frameX="-205" frameY="-166" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Attack0003" x="0" y="630" width="485" height="631" frameX="-205" frameY="-165" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Attack0004" x="519" y="0" width="477" height="634" frameX="-205" frameY="-162" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Attack0005" x="1610" y="2602" width="406" height="634" frameX="-205" frameY="-162" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Down0000" x="1294" y="1925" width="424" height="651" frameX="-212" frameY="-159" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Down0001" x="1775" y="1261" width="424" height="653" frameX="-212" frameY="-157" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Down0002" x="870" y="1925" width="424" height="653" frameX="-212" frameY="-157" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="SingDownMiss0000" x="996" y="0" width="444" height="668" frameX="-212" frameY="-142" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="SingDownMiss0001" x="0" y="1261" width="443" height="664" frameX="-212" frameY="-146" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Hurt0000" x="372" y="3287" width="375" height="673" frameX="-211" frameY="-134" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Hurt0001" x="3199" y="1356" width="408" height="692" frameX="-160" frameY="-116" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Hurt0002" x="3199" y="663" width="408" height="693" frameX="-178" frameY="-114" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Hurt0003" x="2767" y="671" width="407" height="692" frameX="-179" frameY="-115" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Idle0000" x="431" y="1925" width="439" height="662" frameX="-202" frameY="-148" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Idle0001" x="3199" y="0" width="435" height="663" frameX="-207" frameY="-147" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Idle0002" x="2767" y="0" width="432" height="671" frameX="-212" frameY="-139" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Idle0003" x="0" y="1925" width="431" height="677" frameX="-212" frameY="-133" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Idle0004" x="2337" y="0" width="430" height="682" frameX="-212" frameY="-128" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Left0000" x="4017" y="682" width="370" height="682" frameX="-212" frameY="-128" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Left0001" x="0" y="3287" width="372" height="680" frameX="-212" frameY="-130" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Left0002" x="3634" y="1399" width="373" height="679" frameX="-212" frameY="-131" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="SingLeftMiss0000" x="4017" y="1364" width="369" height="682" frameX="-212" frameY="-128" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="SingLeftMiss0001" x="4017" y="0" width="370" height="682" frameX="-212" frameY="-128" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Pose0000" x="2337" y="682" width="389" height="714" frameX="-196" frameY="-96" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Pose0001" x="3634" y="0" width="383" height="707" frameX="-202" frameY="-103" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Pose0002" x="3634" y="707" width="372" height="692" frameX="-212" frameY="-118" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Pose0003" x="3634" y="2078" width="372" height="680" frameX="-212" frameY="-130" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Right0000" x="1440" y="0" width="450" height="658" frameX="-209" frameY="-153" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Right0001" x="1890" y="0" width="447" height="660" frameX="-209" frameY="-151" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Right0002" x="443" y="1261" width="445" height="660" frameX="-209" frameY="-151" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="SingRightMiss0000" x="888" y="1261" width="445" height="660" frameX="-209" frameY="-151" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="SingRightMiss0001" x="1333" y="1261" width="442" height="660" frameX="-209" frameY="-151" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Up0000" x="0" y="2602" width="404" height="685" frameX="-212" frameY="-125" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Up0001" x="1209" y="2602" width="401" height="682" frameX="-212" frameY="-128" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="Up0002" x="808" y="2602" width="401" height="682" frameX="-212" frameY="-128" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="SingUpMiss0000" x="2767" y="1363" width="404" height="691" frameX="-212" frameY="-119" frameWidth="808" frameHeight="836"/>
+	<SubTexture name="SingUpMiss0001" x="404" y="2602" width="404" height="685" frameX="-212" frameY="-125" frameWidth="808" frameHeight="836"/>
+</TextureAtlas>

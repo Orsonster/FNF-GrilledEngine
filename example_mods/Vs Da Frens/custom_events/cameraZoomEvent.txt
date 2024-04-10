@@ -1,0 +1,9 @@
+This will set the camera zoom factors a tween, 
+not add it, for example, setting it to 0.1
+will zoom way out my friend, we don't want that.
+
+Value 1 - ZoomFactor
+Value 2 - Duration
+
+This event is automatically set
+to ease type 'smoothStepInOut'

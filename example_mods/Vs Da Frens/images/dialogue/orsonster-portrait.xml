@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="orsonster-portrait.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="content0000" x="700" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="content0001" x="140" y="0" width="140" height="362" frameX="-107" frameY="2" frameWidth="354" frameHeight="358"/>
+	<SubTexture name="content0002" x="700" y="0" width="140" height="360" frameX="-107" frameY="2" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="content0003" x="420" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="portrait-enter-instance0000" x="980" y="0" width="139" height="359" frameX="-140" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="portrait-enter-instance0001" x="560" y="362" width="140" height="359" frameX="-129" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="portrait-enter-instance0002" x="840" y="359" width="139" height="359" frameX="-115" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="portrait-enter-instance0003" x="980" y="359" width="139" height="359" frameX="-109" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="portrait-enter-instance0004" x="700" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="idle0000" x="700" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="upset0000" x="0" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="upset0001" x="140" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="upset0002" x="420" y="0" width="140" height="360" frameX="-107" frameY="2" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="upset0003" x="0" y="0" width="140" height="362" frameX="-107" frameY="2" frameWidth="354" frameHeight="358"/>
+	<SubTexture name="upset-idle0000" x="140" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="terrified0000" x="840" y="0" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="terrified0001" x="280" y="0" width="140" height="362" frameX="-107" frameY="2" frameWidth="354" frameHeight="358"/>
+	<SubTexture name="terrified0002" x="560" y="0" width="140" height="360" frameX="-107" frameY="2" frameWidth="354" frameHeight="356"/>
+	<SubTexture name="terrified0003" x="280" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+        <SubTexture name="terrified-idle0000" x="280" y="362" width="140" height="359" frameX="-107" frameY="1" frameWidth="354" frameHeight="356"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes-modern.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Flash0000" x="0" y="246" width="228" height="82" frameX="-86" frameY="-7" frameWidth="372" frameHeight="96"/>
+	<SubTexture name="Flash20000" x="0" y="164" width="315" height="82" frameX="-45" frameY="-7" frameWidth="372" frameHeight="96"/>
+	<SubTexture name="Flash30000" x="0" y="82" width="338" height="82" frameX="-33" frameY="-7" frameWidth="372" frameHeight="96"/>
+	<SubTexture name="Flash40000" x="0" y="0" width="350" height="82" frameX="-27" frameY="-7" frameWidth="375" frameHeight="96"/>
+</TextureAtlas>

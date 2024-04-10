@@ -1,0 +1,7 @@
+{
+	"name": "FNF Vs Da Frens | Official Psych port",
+	"description": "A port directly from the Vs Da Frens team for psych engine!",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

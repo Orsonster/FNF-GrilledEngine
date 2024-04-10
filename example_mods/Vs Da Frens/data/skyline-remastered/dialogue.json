@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well, it's nice to see you again after a while \"BF\", if that even is your real name.",
+			"boxState": "normal",
+			"portrait": "orsonster-portrait",
+			"speed": 0.05,
+			"sound": "orsonster-dialogue-fast"
+		},
+		{
+			"expression": "confused",
+			"text": "beep bep (Do I know you?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure you do...          ...",
+			"boxState": "normal",
+			"sound": "orsonster-dialogue-fast",
+			"speed": 0.05,
+			"portrait": "orsonster-portrait"
+		},
+		{
+			"expression": "upset",
+			"text": "Unless you don't remember us...",
+			"boxState": "normal",
+			"sound": "orsonster-dialogue-fast",
+			"speed": 0.05,
+			"portrait": "orsonster-portrait"
+		}
+	]
+}

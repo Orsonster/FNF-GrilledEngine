@@ -1,0 +1,41 @@
+{
+	"storyName": "Just some more fun :D",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "plaza",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"classical-remastered",
+			"classical_orsonster",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"chip",
+			"boif",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "extras",
+	"hiddenUntilUnlocked": false
+}

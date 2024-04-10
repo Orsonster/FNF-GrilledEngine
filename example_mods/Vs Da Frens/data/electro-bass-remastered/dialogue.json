@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "upset",
+			"text": "I would like to keep singing once I know who you are...",
+			"boxState": "normal",
+			"portrait": "orsonster-portrait",
+			"speed": 0.1,
+			"sound": "orsonster-dialogue-fast"
+		},
+		{
+			"expression": "pissed",
+			"text": "skedoo bop beep do bep (you're just scared of losing)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "upset",
+			"text": "Tell me you remember us...",
+			"boxState": "normal",
+			"sound": "orsonster-dialogue-fast",
+			"speed": 0.05,
+			"portrait": "orsonster-portrait"
+		},
+		{
+			"expression": "terrified",
+			"text": "When the dearests said they were going to reverse it all...",
+			"boxState": "normal",
+			"sound": "orsonster-dialogue-fast",
+			"speed": 0.05,
+			"portrait": "orsonster-portrait"
+		},
+		{
+			"sound": "orsonster-dialogue",
+			"speed": 0.08,
+			"portrait": "orsonster-portrait",
+			"boxState": "normal",
+			"expression": "terrified",
+			"text": "I never thought they would go this far..."
+		},
+                {
+			"expression": "talk",
+			"text": "I'm sure I'm just going crazy, yeah... that's it.",
+			"boxState": "angry",
+			"sound": "orsonster-dialogue-fast",
+			"speed": 0.05,
+			"portrait": "orsonster-portrait"
+		},
+                {
+			"expression": "talk",
+			"text": "A rewind? who am I kidding, they would never get that far!",
+			"boxState": "angry",
+			"sound": "orsonster-dialogue-fast",
+			"speed": 0.05,
+			"portrait": "orsonster-portrait"
+		}
+	]
+}

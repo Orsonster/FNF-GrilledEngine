@@ -1,0 +1,50 @@
+{
+	"storyName": "What a strange showdown...",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "plaza",
+	"weekBefore": "rooftop",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"untitled-0",
+			"pokemonfan",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bass-lit-breeze",
+			"supercyclone",
+			[
+				146,
+				113,
+				253
+			]
+		],
+                [
+			"studio",
+			"classical_orsonster",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "plaza"
+}

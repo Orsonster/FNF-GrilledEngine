@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boif.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF Idle Dance0000" x="1203" y="1241" width="407" height="395" frameX="-69" frameY="-88" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF Idle Dance0001" x="794" y="1241" width="409" height="397" frameX="-69" frameY="-86" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF Idle Dance0002" x="380" y="1241" width="414" height="402" frameX="-65" frameY="-81" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF Idle Dance0003" x="0" y="0" width="414" height="415" frameX="-66" frameY="-68" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF Idle Dance0004" x="826" y="0" width="412" height="416" frameX="-68" frameY="-67" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF Idle Dance0005" x="0" y="415" width="413" height="416" frameX="-67" frameY="-67" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF Idle Dance0006" x="414" y="0" width="412" height="416" frameX="-68" frameY="-67" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE DOWN0000" x="2376" y="0" width="378" height="359" frameX="-82" frameY="-119" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE DOWN0001" x="1897" y="1683" width="380" height="362" frameX="-81" frameY="-116" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE DOWN0002" x="1610" y="1241" width="380" height="362" frameX="-81" frameY="-116" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE DOWN0003" x="1238" y="441" width="380" height="362" frameX="-81" frameY="-116" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE DOWN0004" x="1517" y="1683" width="380" height="362" frameX="-81" frameY="-116" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE LEFT0000" x="0" y="1683" width="384" height="409" frameX="-61" frameY="-72" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE LEFT0001" x="384" y="1683" width="380" height="408" frameX="-65" frameY="-73" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE LEFT0002" x="764" y="1683" width="377" height="407" frameX="-68" frameY="-74" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE LEFT0003" x="1141" y="1683" width="376" height="407" frameX="-69" frameY="-74" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE LEFT0004" x="1239" y="831" width="377" height="407" frameX="-68" frameY="-74" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="825" y="831" width="414" height="407" frameX="-111" frameY="-74" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="0" y="831" width="413" height="410" frameX="-111" frameY="-72" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE RIGHT0002" x="413" y="831" width="412" height="410" frameX="-111" frameY="-72" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE RIGHT0003" x="414" y="416" width="411" height="411" frameX="-111" frameY="-71" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE RIGHT0004" x="826" y="416" width="411" height="411" frameX="-111" frameY="-71" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE UP0000" x="2005" y="0" width="371" height="446" frameX="-111" frameY="-36" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE UP0001" x="0" y="1241" width="380" height="442" frameX="-107" frameY="-40" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE UP0002" x="1238" y="0" width="384" height="441" frameX="-104" frameY="-41" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE UP0003" x="1622" y="0" width="383" height="442" frameX="-104" frameY="-40" frameWidth="540" frameHeight="546"/>
+	<SubTexture name="BF NOTE UP0004" x="1622" y="442" width="381" height="443" frameX="-104" frameY="-39" frameWidth="540" frameHeight="546"/>
+</TextureAtlas>

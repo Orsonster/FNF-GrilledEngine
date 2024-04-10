@@ -1,0 +1,35 @@
+{
+	"storyName": "Where it all began.",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "rooftop",
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"skyline-remastered",
+			"orsonster",
+			[
+				255,
+				160,
+				77
+			]
+		],
+		[
+			"electro-bass-remastered",
+			"orsonster",
+			[
+				255,
+				160,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "rooftop"
+}

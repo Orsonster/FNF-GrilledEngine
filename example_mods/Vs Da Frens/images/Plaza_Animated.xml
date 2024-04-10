@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Plaza_Animated.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="plaza-animation0000" x="3488" y="0" width="3488" height="1808" frameX="2" frameY="2" frameWidth="3484" frameHeight="1804"/>
+	<SubTexture name="plaza-animation0001" x="3488" y="1808" width="3488" height="1808" frameX="2" frameY="2" frameWidth="3484" frameHeight="1804"/>
+	<SubTexture name="plaza-animation0002" x="0" y="3616" width="3488" height="1808" frameX="2" frameY="2" frameWidth="3484" frameHeight="1804"/>
+	<SubTexture name="plaza-animation0003" x="0" y="1808" width="3488" height="1808" frameX="2" frameY="2" frameWidth="3484" frameHeight="1804"/>
+	<SubTexture name="plaza-animation0004" x="0" y="0" width="3488" height="1808" frameX="2" frameY="2" frameWidth="3484" frameHeight="1804"/>
+</TextureAtlas>
